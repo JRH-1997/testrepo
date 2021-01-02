@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 plugins:
   - jekyll-readme-index
+  - jekyll-redirect-from
 readme_index:
   enabled:          true
   remove_originals: true
