@@ -1,3 +1,4 @@
 gem "jekyll-readme-index"
 gem 'jekyll-redirect-from'
 gem 'jekyll-paginate'
+gem 'jekyll-sitemap'
