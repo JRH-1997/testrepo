@@ -1,41 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@JRH-1997 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-mmistakes
-/
-minimal-mistakes
-120
-7.4k12.7k
-Code
-Issues
-3
-Pull requests
-11
-Discussions
-Actions
-Projects
-Security
-Insights
-minimal-mistakes/_config.yml
-@smanjo
-smanjo Fix config comment to list all analytics providers. (#2607)
-…
-Latest commit a0309bb on 22 Jul 2020
- History
- 26 contributors
-@mmistakes@d-Rickyy-b@ohadschn@Pradhyo@yihangho@LoveMeWithoutAll@YuyingWu@westes@vlajos@tony-ho@rriemann@raviriley
-281 lines (254 sloc)  7.97 KB
-  
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -59,8 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jrh1997"
 description              : #""
-url                      : "https://jrh-1997.github.io/testrepo/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://jrh-1997.github.io"
+baseurl                  : "/testrepo/"
 repository               : "JRH-1997/Scripts-MKS"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -319,15 +281,3 @@ defaults:
       comments: # true
       share: true
       related: true
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
