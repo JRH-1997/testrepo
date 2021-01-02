@@ -3,7 +3,7 @@ title: Scripts-MKS
 redirect_from:
   - /index
   - /README
-  - /nl_NL
+  - /nl_NL/
   - /
 ---
 
