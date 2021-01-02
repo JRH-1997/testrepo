@@ -1,4 +1,4 @@
-theme: inimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-readme-index
   - jekyll-redirect-from
